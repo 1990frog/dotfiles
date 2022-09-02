@@ -12,6 +12,7 @@ env:
 
 # Window configurations
 window:
+  opacity: 0.8
   dimensions:
     columns: 0
     lines: 0
@@ -30,18 +31,18 @@ scrolling:
 # Font configurations
 font:
   normal:
-    family: SauceCodePro Nerd Font
+    family: SourceCodePro
     style: Regular
 
   bold:
-    family: SauceCodePro Nerd Font
+    family: SourceCodePro
     style: Bold
 
   italic:
-    family: SauceCodePro Nerd Font
+    family: SourceCodePro
     style: Italic
 
-  size: 10.0
+  size: 11.0
 
   offset:
     x: 0
@@ -139,8 +140,6 @@ colors:
 
 # Visual Bell
 # ...
-
-background_opacity: 0.8
 
 selection:
   semantic_escape_chars: ",│`|:\"' ()[]{}<>\t"

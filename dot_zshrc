@@ -73,11 +73,7 @@ ZSH_THEME="robbyrussell"
 plugins=(
 git
 z
-zsh-syntax-highlighting
-zsh-autosuggestions
-git-open
 gitignore
-zsh_reload
 command-not-found
 safe-paste
 sudo
